@@ -1,5 +1,7 @@
 {
   "name": "Custom profile links",
   "component": true,
+  "authors": "Firepup6500 - updated by newbit1337",
+  "version": "2.0.0",
   "about_url": "https://meta.discourse.org/t/41218"
 }

@@ -1,8 +1,13 @@
-.d-user-card__custom-field-group .user-card-metadata-outlet.custom-profile-links-orgs .desc {
+.d-user-card__custom-field-group
+  .user-card-metadata-outlet.custom-profile-links-orgs
+  .desc {
   font-weight: bold;
 }
 
-.d-user-card__custom-field-group .user-card-metadata-outlet.custom-profile-links-orgs, .d-user-card__custom-field-group .user-card-metadata-outlet.custom-profile-links-links {
+.d-user-card__custom-field-group
+  .user-card-metadata-outlet.custom-profile-links-orgs,
+.d-user-card__custom-field-group
+  .user-card-metadata-outlet.custom-profile-links-links {
   padding: 3px 5px;
   display: flex;
   border-radius: var(--d-border-radius);
